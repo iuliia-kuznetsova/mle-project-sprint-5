@@ -1,0 +1,23 @@
+{
+  "model": "x_learner_final_tuned",
+  "uplift_auc": 0.023869676319853067,
+  "qini_auc": 0.05268293627645892,
+  "uplift_at_30": 0.048592844805803684,
+  "params_clf": {
+    "iterations": 417,
+    "depth": 5,
+    "learning_rate": 0.016703619571844568,
+    "l2_leaf_reg": 0.6770042120853682,
+    "random_seed": 42,
+    "verbose": 0,
+    "auto_class_weights": "Balanced"
+  },
+  "params_rgs": {
+    "iterations": 145,
+    "depth": 6,
+    "learning_rate": 0.029666808372417322,
+    "l2_leaf_reg": 2.6606406309169865,
+    "random_seed": 42,
+    "verbose": 0
+  }
+}

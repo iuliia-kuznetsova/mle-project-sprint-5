@@ -1,0 +1,26 @@
+{
+  "run_id": "9847b391f76f42c2968395af80c0ba93",
+  "experiment_id": "21",
+  "registered_model_name": "xlearner",
+  "model_uri": "runs:/9847b391f76f42c2968395af80c0ba93/model",
+  "metrics": {
+    "model": "x_learner_ohe",
+    "uplift_auc": 0.013420108953534014,
+    "qini_auc": 0.030489118866351007,
+    "uplift_at_30": 0.031213841277225485,
+    "params_clf": {
+      "iterations": 500,
+      "depth": 6,
+      "learning_rate": 0.1,
+      "random_seed": 42,
+      "verbose": 0
+    },
+    "params_rgs": {
+      "iterations": 500,
+      "depth": 6,
+      "learning_rate": 0.1,
+      "random_seed": 42,
+      "verbose": 0
+    }
+  }
+}

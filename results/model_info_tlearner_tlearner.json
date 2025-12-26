@@ -1,0 +1,12 @@
+{
+  "run_id": "a1f86f3769b7429ca92e5f3781686d65",
+  "experiment_id": "21",
+  "registered_model_name": "tlearner",
+  "model_uri": "runs:/a1f86f3769b7429ca92e5f3781686d65/model",
+  "metrics": {
+    "model": "t_learner",
+    "uplift_auc": 0.01155578065733437,
+    "qini_auc": 0.0263896761494924,
+    "uplift_at_30": 0.02718891852683794
+  }
+}

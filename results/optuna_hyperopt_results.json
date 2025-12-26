@@ -1,0 +1,14 @@
+{
+  "best_value": 0.048592844805803684,
+  "best_params": {
+    "clf_iterations": 417,
+    "clf_depth": 5,
+    "clf_learning_rate": 0.016703619571844568,
+    "clf_l2_leaf_reg": 0.6770042120853682,
+    "rgs_iterations": 145,
+    "rgs_depth": 6,
+    "rgs_learning_rate": 0.029666808372417322,
+    "rgs_l2_leaf_reg": 2.6606406309169865
+  },
+  "n_trials": 50
+}
